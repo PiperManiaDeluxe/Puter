@@ -1,0 +1,3 @@
+[submodule "libs/Loggitt"]
+	path = libs/Loggitt
+	url = https://github.com/PiperManiaDeluxe/Loggitt
